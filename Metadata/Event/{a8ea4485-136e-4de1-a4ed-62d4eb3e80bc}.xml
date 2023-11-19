@@ -178,13 +178,13 @@
 			<value>144.24000000000001</value>
 		</property>
 		<property name="length">
-			<value>135.50527083333333</value>
+			<value>135.42127083333335</value>
 		</property>
 		<property name="timelockedOffset">
-			<value>0.20083333333334963</value>
+			<value>0.28483333333332439</value>
 		</property>
 		<property name="volume">
-			<value>-5</value>
+			<value>-5.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{09f9877f-96e1-4840-b5bc-873acdbdbffc}</destination>
@@ -337,7 +337,6 @@
 	<object class="MixerBusEffectChain" id="{48d096b0-564f-4e5f-9bd7-0380fe68b4e4}">
 		<relationship name="effects">
 			<destination>{73444df7-b457-49e4-be42-359f90e2ca2d}</destination>
-			<destination>{0f4fe570-3a48-4e47-a330-a300da996f3d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{8d6f61d5-3fba-4946-bb9a-d2a9f64de734}" />
@@ -451,14 +450,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{73444df7-b457-49e4-be42-359f90e2ca2d}" />
-	<object class="ProxyEffect" id="{0f4fe570-3a48-4e47-a330-a300da996f3d}">
-		<property name="inputFormat">
-			<value>1</value>
-		</property>
-		<relationship name="preset">
-			<destination>{b4fa979c-25c2-4503-aeea-7935baf1182c}</destination>
-		</relationship>
-	</object>
 	<object class="AutomationPoint" id="{4e752a89-c6c5-4932-a522-add8e40401da}">
 		<property name="position">
 			<value>0</value>

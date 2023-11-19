@@ -131,7 +131,7 @@
 			<value>0.43316326530614901</value>
 		</property>
 		<property name="length">
-			<value>181.36816326530615</value>
+			<value>117.52683673469386</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{34afcb79-349d-4aee-933a-594b46f6b106}</destination>
@@ -139,7 +139,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{50edf82d-3899-4794-b561-75971b1edce6}">
 		<property name="volume">
-			<value>-3</value>
+			<value>-8.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 2</value>
@@ -159,7 +159,7 @@
 			<value>0.46272108843537413</value>
 		</property>
 		<property name="length">
-			<value>181.33860544217677</value>
+			<value>117.39727891156463</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{22a06ef5-a226-4a1a-b765-a59deec9860d}</destination>

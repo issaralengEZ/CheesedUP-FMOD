@@ -207,7 +207,7 @@
 			<value>255</value>
 		</property>
 		<property name="length">
-			<value>176.90120833333333</value>
+			<value>219</value>
 		</property>
 		<property name="volume">
 			<value>-4</value>
@@ -221,7 +221,7 @@
 			<value>630</value>
 		</property>
 		<property name="length">
-			<value>122.40000000000001</value>
+			<value>122.39999999999998</value>
 		</property>
 		<property name="volume">
 			<value>-3</value>
@@ -445,7 +445,7 @@
 	<object class="MixerBusEffectChain" id="{666f7cbf-a9c6-4c28-8f51-24c44004b4d2}">
 		<relationship name="effects">
 			<destination>{2030cede-1464-4369-b337-795c9ba58ca8}</destination>
-			<destination>{1fdd5aa5-5377-4412-92e9-6078b8a8ffbf}</destination>
+			<destination>{ef6717c8-9ec1-47b9-8615-239500064725}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{14677db4-d8af-42ab-9b92-02f7b257478c}" />
@@ -625,7 +625,7 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{2030cede-1464-4369-b337-795c9ba58ca8}" />
-	<object class="ProxyEffect" id="{1fdd5aa5-5377-4412-92e9-6078b8a8ffbf}">
+	<object class="ProxyEffect" id="{ef6717c8-9ec1-47b9-8615-239500064725}">
 		<property name="inputFormat">
 			<value>1</value>
 		</property>
