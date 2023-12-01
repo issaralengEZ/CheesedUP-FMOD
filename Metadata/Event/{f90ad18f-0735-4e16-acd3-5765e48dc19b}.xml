@@ -133,7 +133,7 @@
 	<object class="MixerBusPanner" id="{c89ddc4d-130d-4a29-90db-cc1796b48894}" />
 	<object class="SingleSound" id="{3f8e6e02-6762-4833-bdab-0c4acf01dd63}">
 		<property name="length">
-			<value>14.4</value>
+			<value>10.004627717935762</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{873692d0-d53c-4f16-bfe7-dbc61a4d504c}</destination>
@@ -185,13 +185,10 @@
 	</object>
 	<object class="SingleSound" id="{74a650dd-bcab-4354-97ed-72f315cd1dbb}">
 		<property name="start">
-			<value>153.45222916666665</value>
+			<value>169.54453871373818</value>
 		</property>
 		<property name="length">
-			<value>14.396229166666657</value>
-		</property>
-		<property name="timelockedOffset">
-			<value>0.047770833333345308</value>
+			<value>19.251461286261801</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{213a6d55-c2bf-4a23-bb1b-1b2ed4081b6c}</destination>
@@ -202,10 +199,10 @@
 			<value>33.444000000000003</value>
 		</property>
 		<property name="length">
-			<value>120.00822916666665</value>
+			<value>136.10053871373816</value>
 		</property>
 		<property name="timelockedOffset">
-			<value>14.444000000000003</value>
+			<value>19.247999999999998</value>
 		</property>
 		<property name="volume">
 			<value>-2</value>
@@ -254,10 +251,10 @@
 	</object>
 	<object class="LoopRegion" id="{b5227001-f4ee-4b7b-88d2-df40c80e0fcf}">
 		<property name="position">
-			<value>0.002</value>
+			<value>2.6800000000000002</value>
 		</property>
 		<property name="length">
-			<value>14.398</value>
+			<value>7.2000000000000002</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{6802048a-7b62-439d-9526-4046d1ff02d3}</destination>
@@ -271,7 +268,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>14.4</value>
+			<value>10.004627717935762</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{6802048a-7b62-439d-9526-4046d1ff02d3}</destination>
@@ -294,7 +291,7 @@
 			<value>33.444000000000003</value>
 		</property>
 		<property name="length">
-			<value>134.40445833333342</value>
+			<value>155.35199999999998</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{6802048a-7b62-439d-9526-4046d1ff02d3}</destination>
