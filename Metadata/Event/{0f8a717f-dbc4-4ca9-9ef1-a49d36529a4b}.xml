@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{0f8a717f-dbc4-4ca9-9ef1-a49d36529a4b}">
-		<property name="note" />
 		<property name="name">
 			<value>00 intro</value>
 		</property>
@@ -63,7 +62,11 @@
 			<destination>{bd647f4a-9ed4-457f-9d69-57dc03124064}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{95b736cc-b13f-424f-a132-7ed24ce9edad}" />
+	<object class="EventAutomatableProperties" id="{95b736cc-b13f-424f-a132-7ed24ce9edad}">
+		<property name="priority">
+			<value>4</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{f65f2acc-234c-48b8-9fe2-aaac09933007}" />
 	<object class="GroupTrack" id="{8cf663d0-b1aa-47f2-9e6f-50684e6d9487}">
 		<relationship name="modules">

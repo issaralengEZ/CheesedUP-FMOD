@@ -57,7 +57,11 @@
 			<destination>{032f56ee-6215-4738-8d0b-f630b5c73daf}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{1086ddf3-2e3b-4aeb-9b6e-b4d6f2898007}" />
+	<object class="EventAutomatableProperties" id="{1086ddf3-2e3b-4aeb-9b6e-b4d6f2898007}">
+		<property name="priority">
+			<value>4</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{602f3436-f3f3-4f21-a131-5dd7f7f7230a}" />
 	<object class="GroupTrack" id="{9cc0a2d1-951c-48fe-989b-7dada1a9f6d9}">
 		<relationship name="modules">
