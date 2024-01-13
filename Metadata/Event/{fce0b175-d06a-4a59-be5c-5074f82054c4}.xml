@@ -156,7 +156,7 @@
 			<value>185.39099999999999</value>
 		</property>
 		<property name="volume">
-			<value>-4</value>
+			<value>-3</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{cf78b703-5b11-4582-b657-d583d05af1df}</destination>
@@ -173,9 +173,6 @@
 	<object class="TransitionDestinationSound" id="{96ecab0b-8e4d-4398-a93d-932fc1b2f7c1}" />
 	<object class="TransitionSourceSound" id="{11f45b95-e78b-4a8c-ae84-964a81053446}" />
 	<object class="EventMixerGroup" id="{e3d936c7-a517-4153-be08-6d751388a6d0}">
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

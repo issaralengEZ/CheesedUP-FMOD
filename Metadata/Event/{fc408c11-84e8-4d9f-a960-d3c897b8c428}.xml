@@ -34,6 +34,8 @@
 		<relationship name="userProperties">
 			<destination>{76d4e03c-9087-456e-8ab8-4139ea27419a}</destination>
 			<destination>{579b9357-c982-4c55-89a2-ff4289869425}</destination>
+			<destination>{e94d1075-b7bc-40fc-abcd-a47abfdf95c8}</destination>
+			<destination>{172b8905-bb25-41b1-a6bd-caaded159070}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -96,6 +98,22 @@
 		</property>
 		<property name="value">
 			<value>loypoll</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{e94d1075-b7bc-40fc-abcd-a47abfdf95c8}">
+		<property name="key">
+			<value>alt</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{172b8905-bb25-41b1-a6bd-caaded159070}">
+		<property name="key">
+			<value>order</value>
+		</property>
+		<property name="value">
+			<value>14</value>
 		</property>
 	</object>
 	<object class="EventMixerMaster" id="{ddd5cf88-ce8f-4045-a2d5-13115b4ee349}">

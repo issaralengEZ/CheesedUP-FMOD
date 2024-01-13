@@ -130,6 +130,9 @@
 		<property name="length">
 			<value>71.489354166666672</value>
 		</property>
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{694f21c3-11e7-4c1f-bfe7-a9aafa8d9fd5}</destination>
 		</relationship>
@@ -141,9 +144,6 @@
 		<property name="length">
 			<value>48</value>
 		</property>
-		<property name="volume">
-			<value>1</value>
-		</property>
 		<relationship name="audioFile">
 			<destination>{84d54018-a875-428d-8fb6-a0a91d2152ae}</destination>
 		</relationship>
@@ -154,9 +154,6 @@
 		</property>
 		<property name="length">
 			<value>69.818185941043083</value>
-		</property>
-		<property name="volume">
-			<value>3</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{89372e02-e71e-4610-ad84-8367849915d2}</destination>
@@ -188,6 +185,9 @@
 		<property name="length">
 			<value>71.489365079365086</value>
 		</property>
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{84c30f55-9e32-42b2-921a-e3b21a7cbba6}</destination>
 		</relationship>
@@ -199,9 +199,6 @@
 		<property name="length">
 			<value>48</value>
 		</property>
-		<property name="volume">
-			<value>1</value>
-		</property>
 		<relationship name="audioFile">
 			<destination>{84d54018-a875-428d-8fb6-a0a91d2152ae}</destination>
 		</relationship>
@@ -212,9 +209,6 @@
 		</property>
 		<property name="length">
 			<value>69.818185941043083</value>
-		</property>
-		<property name="volume">
-			<value>3</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{89372e02-e71e-4610-ad84-8367849915d2}</destination>
@@ -400,7 +394,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-2.5</value>
+			<value>3</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{6983d0a8-3a2d-47b8-b1dd-b23ae18fbbbb}">
@@ -424,7 +418,7 @@
 			<value>1</value>
 		</property>
 		<property name="value">
-			<value>-2.5</value>
+			<value>3</value>
 		</property>
 	</object>
 </objects>

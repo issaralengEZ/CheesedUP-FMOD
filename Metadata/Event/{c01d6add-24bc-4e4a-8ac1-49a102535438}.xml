@@ -223,9 +223,6 @@
 		<property name="length">
 			<value>156.13827664399093</value>
 		</property>
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<relationship name="audioFile">
 			<destination>{1687f03e-a191-4f9e-aced-4fb81a6f62c2}</destination>
 		</relationship>
@@ -247,9 +244,6 @@
 		</property>
 		<property name="length">
 			<value>122.40000000000001</value>
-		</property>
-		<property name="volume">
-			<value>-3</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{c36c2188-2179-465a-859d-061c0072bf91}</destination>

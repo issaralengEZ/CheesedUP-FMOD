@@ -36,6 +36,7 @@
 			<destination>{2f43dd67-bac3-4487-b357-721316f43adc}</destination>
 			<destination>{161002b9-69e9-46f0-8b7f-c5619e8a9c9b}</destination>
 			<destination>{1953d4ea-07fb-4c75-ae24-880b782919b9}</destination>
+			<destination>{7fa29640-f331-4c7a-9003-68400f6e11b2}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -114,6 +115,14 @@
 		</property>
 		<property name="value">
 			<value>58</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{7fa29640-f331-4c7a-9003-68400f6e11b2}">
+		<property name="key">
+			<value>alt</value>
+		</property>
+		<property name="value">
+			<value>0</value>
 		</property>
 	</object>
 	<object class="EventMixerMaster" id="{f484a243-b243-4507-90c0-0cdef40ab9b6}">

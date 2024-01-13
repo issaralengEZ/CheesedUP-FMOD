@@ -250,6 +250,9 @@
 		<property name="length">
 			<value>146.26442176870748</value>
 		</property>
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{6d7a1380-7638-4c19-ad30-ad7b7a420514}</destination>
 		</relationship>
@@ -262,7 +265,7 @@
 			<value>139.31102040816327</value>
 		</property>
 		<property name="volume">
-			<value>2</value>
+			<value>6</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{9471ea55-c2c6-434d-9f58-09fc1c045f7a}</destination>
@@ -274,9 +277,6 @@
 		</property>
 		<property name="length">
 			<value>122.40000000000001</value>
-		</property>
-		<property name="volume">
-			<value>-3</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{c36c2188-2179-465a-859d-061c0072bf91}</destination>

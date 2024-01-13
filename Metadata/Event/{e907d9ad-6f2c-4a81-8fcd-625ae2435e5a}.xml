@@ -35,6 +35,7 @@
 			<destination>{2c84f65c-3cc0-4f52-b5fa-470200e16601}</destination>
 			<destination>{5c9b33e3-8165-4f8f-b4e2-d8ed72910449}</destination>
 			<destination>{91585ec9-9ecb-40e5-982b-510f04955c86}</destination>
+			<destination>{05e2b6ee-d21f-43d5-853d-273ee7331546}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -107,6 +108,14 @@
 			<value>22</value>
 		</property>
 	</object>
+	<object class="UserProperty" id="{05e2b6ee-d21f-43d5-853d-273ee7331546}">
+		<property name="key">
+			<value>alt</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
 	<object class="EventMixerMaster" id="{911cb3ae-9cab-42e1-8966-590fcbfa8667}">
 		<relationship name="effectChain">
 			<destination>{482048e4-9881-4a76-94f4-e08b62b81a27}</destination>
@@ -133,6 +142,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{102758bc-d835-4cd2-a136-5182f16fa177}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

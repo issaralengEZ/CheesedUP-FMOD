@@ -212,9 +212,6 @@
 	</object>
 	<object class="TransitionDestinationSound" id="{1d5ff2ff-e236-4408-801f-58ce2fe86645}" />
 	<object class="EventMixerGroup" id="{c85a2fc9-f5a0-4bff-beb2-9e57dd19d0df}">
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

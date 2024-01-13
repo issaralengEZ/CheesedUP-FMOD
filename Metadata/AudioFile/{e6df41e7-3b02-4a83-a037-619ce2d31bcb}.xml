@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{0bed9668-82f5-4987-b8e0-09318bfdf888}">
+	<object class="AudioFile" id="{e6df41e7-3b02-4a83-a037-619ce2d31bcb}">
 		<property name="assetPath">
-			<value>modded/pizzelle/secrets/graveyardsecretSP.ogg</value>
+			<value>modded/pizzelle/secrets/beachsecretSP.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>48</value>
+			<value>50.399999999999999</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>

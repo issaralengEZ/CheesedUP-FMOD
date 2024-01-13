@@ -35,6 +35,8 @@
 			<destination>{23e3b0e9-c93b-45f1-8156-ca75f6c2a033}</destination>
 			<destination>{69e0708c-290d-48fe-9a81-0ee85950d62a}</destination>
 			<destination>{5a3ca582-6db3-4a0b-8131-ec1d7f4f5971}</destination>
+			<destination>{01effb1a-78a0-49e3-b528-5f172b27fb18}</destination>
+			<destination>{67dc9beb-d632-46c7-b708-53f7b41e9163}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -107,6 +109,22 @@
 			<value>Pizza Tower</value>
 		</property>
 	</object>
+	<object class="UserProperty" id="{01effb1a-78a0-49e3-b528-5f172b27fb18}">
+		<property name="key">
+			<value>order</value>
+		</property>
+		<property name="value">
+			<value>65</value>
+		</property>
+	</object>
+	<object class="UserProperty" id="{67dc9beb-d632-46c7-b708-53f7b41e9163}">
+		<property name="key">
+			<value>alt</value>
+		</property>
+		<property name="value">
+			<value>0</value>
+		</property>
+	</object>
 	<object class="EventMixerMaster" id="{78d946fb-d10c-41d9-b4ee-431aa2f1fac8}">
 		<relationship name="effectChain">
 			<destination>{0ec83bd8-c82c-45c5-b49c-1205af173b73}</destination>
@@ -133,6 +151,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{bab86ffb-d1b6-49cd-881f-349af40ff8d8}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

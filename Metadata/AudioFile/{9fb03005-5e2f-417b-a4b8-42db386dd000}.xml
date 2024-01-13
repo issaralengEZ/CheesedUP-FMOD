@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{5a9a48d8-b32b-4509-b691-b2b2ff2c6ffc}">
+	<object class="AudioFile" id="{9fb03005-5e2f-417b-a4b8-42db386dd000}">
 		<property name="assetPath">
-			<value>modded/pizzelle/secrets/beachsecretSP.ogg</value>
+			<value>modded/pizzelle/secrets/graveyardsecretSP.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

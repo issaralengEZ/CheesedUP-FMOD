@@ -34,6 +34,7 @@
 		<relationship name="userProperties">
 			<destination>{7372f1c0-f6ab-4f2b-9bda-00d66d8c8001}</destination>
 			<destination>{1df85243-aae5-4ec3-a35a-4eb4f84df7de}</destination>
+			<destination>{35e0fb2f-1d09-4ee3-a052-6001b0b14601}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{d1922f23-f05c-4f1e-bf51-00d19c55549b}</destination>
@@ -98,6 +99,14 @@
 			<value>loypoll</value>
 		</property>
 	</object>
+	<object class="UserProperty" id="{35e0fb2f-1d09-4ee3-a052-6001b0b14601}">
+		<property name="key">
+			<value>order</value>
+		</property>
+		<property name="value">
+			<value>25</value>
+		</property>
+	</object>
 	<object class="EventMixerMaster" id="{1d395220-204f-4b28-bc12-377049277537}">
 		<relationship name="effectChain">
 			<destination>{c59118f3-4cbc-4a17-aaf8-16b4f893184b}</destination>
@@ -124,6 +133,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{243a5f1a-ad8d-4fdb-86e3-05222f634f06}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

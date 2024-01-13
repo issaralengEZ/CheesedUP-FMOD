@@ -139,9 +139,6 @@
 		<property name="timelockedOffset">
 			<value>11.406736166002739</value>
 		</property>
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<relationship name="audioFile">
 			<destination>{3a0bf674-33e4-45e1-9227-8e625c3f7bc7}</destination>
 		</relationship>
@@ -172,17 +169,11 @@
 		<property name="timelockedOffset">
 			<value>27.906736166002737</value>
 		</property>
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<relationship name="audioFile">
 			<destination>{3a0bf674-33e4-45e1-9227-8e625c3f7bc7}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{477af399-aa6d-48b9-be48-26e5c4444e2e}">
-		<property name="volume">
-			<value>-2</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -219,17 +210,11 @@
 		<property name="timelockedOffset">
 			<value>16.35173616600273</value>
 		</property>
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<relationship name="audioFile">
 			<destination>{3a0bf674-33e4-45e1-9227-8e625c3f7bc7}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{488914dd-4d2f-4ef4-aa27-bfcf5b71f3b7}">
-		<property name="volume">
-			<value>-2</value>
-		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>

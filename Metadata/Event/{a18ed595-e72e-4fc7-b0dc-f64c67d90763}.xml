@@ -160,7 +160,7 @@
 	<object class="TransitionDestinationSound" id="{56d71f02-3984-4299-8f7e-e75f3618fb89}" />
 	<object class="SingleSound" id="{7a54ad03-623b-4826-bc7c-1d4b994c4cfb}">
 		<property name="length">
-			<value>322.68685714285721</value>
+			<value>320.01999999999998</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>0.056000000000000001</value>
