@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{eef219e3-8567-4174-9417-72fbe317d373}">
+		<property name="note">
+			<value>I want you dead vir</value>
+		</property>
 		<property name="name">
 			<value>22</value>
 		</property>
