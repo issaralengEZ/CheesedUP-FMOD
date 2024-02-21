@@ -150,7 +150,7 @@
 	</object>
 	<object class="TransitionDestinationSound" id="{a3ec32d7-5269-475d-bf0f-f436dcd4bf69}">
 		<property name="start">
-			<value>2</value>
+			<value>5</value>
 		</property>
 		<property name="length">
 			<value>0</value>
@@ -190,7 +190,7 @@
 	<object class="MixerBusPanner" id="{56e38685-5ba9-47d2-9ab8-a128c10774aa}" />
 	<object class="SingleSound" id="{ec75f671-6255-4975-adba-d8e7dc005d47}">
 		<property name="length">
-			<value>220.94366666666667</value>
+			<value>151.70000000000002</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{4b8fd936-e34b-4ad5-898c-38ac574b815f}</destination>
@@ -198,12 +198,12 @@
 	</object>
 	<object class="TransitionSourceSound" id="{f2d092bb-2fbe-4381-b1d2-3db539077609}">
 		<property name="length">
-			<value>2</value>
+			<value>5</value>
 		</property>
 	</object>
 	<object class="TransitionDestinationSound" id="{cd4d8d4e-4563-41bb-84a1-00b776e6a59d}">
 		<property name="length">
-			<value>2</value>
+			<value>4.9999999999999982</value>
 		</property>
 	</object>
 	<object class="SingleSound" id="{c1510de7-ae02-4c31-b3c1-8a7d9ffc1ecf}">
@@ -341,10 +341,10 @@
 	</object>
 	<object class="LoopRegion" id="{fc25faca-a92b-4592-bf36-f04c78b132fe}">
 		<property name="position">
-			<value>51.012</value>
+			<value>32</value>
 		</property>
 		<property name="length">
-			<value>161.428</value>
+			<value>114</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{ed07df6c-ce23-4f12-a653-172f4bb4d6e2}</destination>
@@ -611,7 +611,7 @@
 	<object class="MixerBusPanner" id="{b057a114-1f6f-4639-966f-91621d4939c4}" />
 	<object class="TransitionTimeline" id="{bac352dd-3def-4da9-93c3-97c610027106}">
 		<property name="length">
-			<value>2</value>
+			<value>5</value>
 		</property>
 		<relationship name="modules">
 			<destination>{f2d092bb-2fbe-4381-b1d2-3db539077609}</destination>
@@ -762,7 +762,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>4</value>
+			<value>3</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{c63160e0-94ee-4b3a-b7cd-23e7a4b42912}">
@@ -770,7 +770,7 @@
 			<value>1</value>
 		</property>
 		<property name="value">
-			<value>-80</value>
+			<value>-60</value>
 		</property>
 	</object>
 </objects>
