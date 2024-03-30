@@ -156,6 +156,12 @@
 		<property name="length">
 			<value>2.4361675069944191</value>
 		</property>
+		<property name="volume">
+			<value>3</value>
+		</property>
+		<relationship name="fadeOutCurve">
+			<destination>{592c5abd-ecc1-4f52-afcf-29bd5cdcfb6a}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{6992082e-38e6-4178-9a35-43a6f1abe092}</destination>
 		</relationship>
@@ -200,6 +206,14 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{2f2d2ec2-54de-4c32-a37b-c3f26ad70334}" />
+	<object class="FadeCurve" id="{592c5abd-ecc1-4f52-afcf-29bd5cdcfb6a}">
+		<relationship name="startPoint">
+			<destination>{34a2df21-4c8b-4a30-a383-97f9326f5bae}</destination>
+		</relationship>
+		<relationship name="endPoint">
+			<destination>{9ffebfa9-600b-4b8d-af99-031f0d9d687b}</destination>
+		</relationship>
+	</object>
 	<object class="Automator" id="{b173f3cb-f8c7-42fc-9b65-9c30ff8e7591}">
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
@@ -255,8 +269,30 @@
 		<property name="highCut">
 			<value>20000</value>
 		</property>
+		<property name="wetLevel">
+			<value>-3</value>
+		</property>
 		<property name="dryLevel">
 			<value>-9</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{34a2df21-4c8b-4a30-a383-97f9326f5bae}">
+		<property name="position">
+			<value>1.4000000000000001</value>
+		</property>
+		<property name="value">
+			<value>1</value>
+		</property>
+		<property name="curveShape">
+			<value>0.25471893</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{9ffebfa9-600b-4b8d-af99-031f0d9d687b}">
+		<property name="position">
+			<value>2.4361675069944191</value>
+		</property>
+		<property name="value">
+			<value>0</value>
 		</property>
 	</object>
 	<object class="AutomationCurve" id="{273014a8-b7fc-40cc-b831-8363d8b493d3}">

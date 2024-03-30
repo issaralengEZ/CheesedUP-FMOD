@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{fed2e33a-1dfb-48a3-a93f-ccbf384ad26d}">
-		<property name="note" />
 		<property name="name">
 			<value>beatdown</value>
 		</property>
@@ -111,9 +110,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{e8205c21-2a7c-4f51-b879-ce3e1ff6c330}">
-		<property name="volume">
-			<value>-3</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

@@ -28,7 +28,7 @@
 			<value>1</value>
 		</property>
 		<property name="soundSize">
-			<value>10000</value>
+			<value>2500</value>
 		</property>
 	</object>
 </objects>

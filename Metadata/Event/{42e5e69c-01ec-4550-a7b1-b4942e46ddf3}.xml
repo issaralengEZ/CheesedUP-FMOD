@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{42e5e69c-01ec-4550-a7b1-b4942e46ddf3}">
-		<property name="note" />
 		<property name="name">
 			<value>moving</value>
 		</property>
@@ -147,7 +146,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{c8a7504d-7f9c-4de2-b9b4-2dfcacec6666}">
 		<property name="volume">
-			<value>3</value>
+			<value>5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>

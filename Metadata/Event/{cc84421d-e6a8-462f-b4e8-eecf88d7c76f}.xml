@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{cc84421d-e6a8-462f-b4e8-eecf88d7c76f}">
-		<property name="note" />
 		<property name="name">
 			<value>bigpunchstart</value>
 		</property>
@@ -112,7 +111,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{c4c765d5-1dd4-449c-909f-017bfaef6516}">
 		<property name="volume">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
