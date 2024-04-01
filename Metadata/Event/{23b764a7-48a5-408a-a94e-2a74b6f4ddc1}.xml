@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{23b764a7-48a5-408a-a94e-2a74b6f4ddc1}">
 		<property name="name">
-			<value>01 saturdays</value>
+			<value>saturdays</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

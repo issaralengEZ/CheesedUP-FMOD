@@ -7,12 +7,6 @@
 		<property name="quality">
 			<value>37</value>
 		</property>
-		<property name="sampleRateMode">
-			<value>1</value>
-		</property>
-		<property name="loadingMode">
-			<value>1</value>
-		</property>
 		<relationship name="platform">
 			<destination>{a5c06b3e-91c0-4938-aa75-7a0b3168accb}</destination>
 		</relationship>

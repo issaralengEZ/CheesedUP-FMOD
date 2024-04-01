@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{03a54363-f26f-4be8-a1b8-837d3ad8e8a7}">
 		<property name="name">
-			<value>S12 secretspace SP</value>
+			<value>secretspace SP</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

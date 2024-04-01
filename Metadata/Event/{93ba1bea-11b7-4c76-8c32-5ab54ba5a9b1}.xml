@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{93ba1bea-11b7-4c76-8c32-5ab54ba5a9b1}">
 		<property name="name">
-			<value>S07 secretstrongcold BN</value>
+			<value>secretstrongcold BN</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -105,7 +105,7 @@
 			<value>order</value>
 		</property>
 		<property name="value">
-			<value>28</value>
+			<value>22</value>
 		</property>
 	</object>
 	<object class="UserProperty" id="{dd2a572c-5755-4bfc-8b06-4ec207b42281}">

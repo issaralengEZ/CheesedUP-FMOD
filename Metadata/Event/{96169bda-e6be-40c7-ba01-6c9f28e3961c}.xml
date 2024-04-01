@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{96169bda-e6be-40c7-ba01-6c9f28e3961c}">
 		<property name="name">
-			<value>53 secretlockin</value>
+			<value>secretworld</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

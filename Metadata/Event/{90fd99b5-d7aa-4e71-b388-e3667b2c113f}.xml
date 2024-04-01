@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{90fd99b5-d7aa-4e71-b388-e3667b2c113f}">
 		<property name="name">
-			<value>S06 secretmansion</value>
+			<value>secretmansion</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -105,7 +105,7 @@
 			<value>order</value>
 		</property>
 		<property name="value">
-			<value>27</value>
+			<value>21</value>
 		</property>
 	</object>
 	<object class="UserProperty" id="{62deca72-15b8-48cb-9058-e93d7229d806}">

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{20f384d8-a743-4f66-a333-bc97c755a949}">
-		<property name="note" />
 		<property name="name">
 			<value>fireassN</value>
 		</property>
@@ -143,6 +142,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{e921b556-636c-4238-afcf-c5b5067dd890}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>
@@ -172,10 +174,27 @@
 	<object class="MixerBusEffectChain" id="{cab66239-10ff-47ab-b8ab-508750af680e}">
 		<relationship name="effects">
 			<destination>{bcf7cf4e-6415-4b8b-bbce-394346d5a2a6}</destination>
+			<destination>{b160f84b-6ae4-4c30-a7c2-ab217b6843b4}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{fa2fd7d8-ca87-41af-9314-9f133dbebc09}" />
 	<object class="MixerBusFader" id="{596f307b-8815-473a-9273-d1ede33d9288}" />
 	<object class="MixerBusFader" id="{615011f3-1d6f-45ea-8c5c-c3258182e7f9}" />
 	<object class="MixerBusFader" id="{bcf7cf4e-6415-4b8b-bbce-394346d5a2a6}" />
+	<object class="PitchShifterEffect" id="{b160f84b-6ae4-4c30-a7c2-ab217b6843b4}">
+		<property name="pitch">
+			<value>1</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{8ad968a2-2da2-41ef-9ec8-db2795383a15}</destination>
+		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{8ad968a2-2da2-41ef-9ec8-db2795383a15}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>6.5</value>
+		</property>
+	</object>
 </objects>

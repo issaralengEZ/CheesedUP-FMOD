@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{f860501d-d7e3-4495-9fb6-0d1e4c37c812}">
 		<property name="name">
-			<value>S02 secretswamp BN</value>
+			<value>secretswamp BN</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

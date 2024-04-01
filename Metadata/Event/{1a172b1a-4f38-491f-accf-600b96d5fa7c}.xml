@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{1a172b1a-4f38-491f-accf-600b96d5fa7c}">
 		<property name="name">
-			<value>41 tunnely</value>
+			<value>tunnely</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

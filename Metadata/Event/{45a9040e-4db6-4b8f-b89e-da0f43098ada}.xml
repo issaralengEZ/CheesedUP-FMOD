@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{45a9040e-4db6-4b8f-b89e-da0f43098ada}">
 		<property name="name">
-			<value>S11 secretgolf BN</value>
+			<value>secretgolf BN</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

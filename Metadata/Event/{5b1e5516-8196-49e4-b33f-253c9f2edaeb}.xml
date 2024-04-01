@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{5b1e5516-8196-49e4-b33f-253c9f2edaeb}">
 		<property name="name">
-			<value>S03 secretstreet</value>
+			<value>secretstreet</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -104,7 +104,7 @@
 			<value>order</value>
 		</property>
 		<property name="value">
-			<value>24</value>
+			<value>19</value>
 		</property>
 	</object>
 	<object class="EventMixerMaster" id="{87ff8ad9-6938-4a03-a525-6c32ee22d003}">

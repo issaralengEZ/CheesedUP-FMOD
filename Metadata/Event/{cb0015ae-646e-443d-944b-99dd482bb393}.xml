@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{cb0015ae-646e-443d-944b-99dd482bb393}">
 		<property name="name">
-			<value>18 lapBN</value>
+			<value>lapBN</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>

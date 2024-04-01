@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{91e13564-e5ab-4946-91f8-aecd0ee65e41}">
 		<property name="name">
-			<value>S16 secretsewer</value>
+			<value>secretsewer</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

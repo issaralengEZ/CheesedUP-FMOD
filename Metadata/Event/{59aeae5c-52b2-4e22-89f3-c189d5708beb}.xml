@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{59aeae5c-52b2-4e22-89f3-c189d5708beb}">
 		<property name="name">
-			<value>17 escapeBN</value>
+			<value>escapeBN</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

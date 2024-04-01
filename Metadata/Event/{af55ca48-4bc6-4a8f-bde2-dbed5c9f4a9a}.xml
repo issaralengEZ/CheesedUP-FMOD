@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{af55ca48-4bc6-4a8f-bde2-dbed5c9f4a9a}">
 		<property name="name">
-			<value>S10 secretforest SP</value>
+			<value>secretforest SP</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

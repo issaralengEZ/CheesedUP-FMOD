@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{298e314d-0199-451c-bbb6-b45cb0426af1}">
 		<property name="name">
-			<value>10 putonashow</value>
+			<value>putonashow</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

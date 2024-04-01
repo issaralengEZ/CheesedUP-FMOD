@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{e9185eb2-eb32-4c29-9b4d-a36158f197b8}">
 		<property name="name">
-			<value>37 tubular</value>
+			<value>tubular</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

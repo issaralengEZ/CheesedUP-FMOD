@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{e17641bf-e5b8-4658-be59-c46a07c1b43e}">
 		<property name="name">
-			<value>S09 secretbeach BN</value>
+			<value>secretbeach BN</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

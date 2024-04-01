@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{67b1097d-45ff-4ec5-83a3-43da653e5257}">
 		<property name="name">
-			<value>S13 secretstreet BN</value>
+			<value>secretstreet BN</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{df67a827-3f8a-48c6-87fb-3f41d942e4b2}</destination>
+			<destination>{b3da2453-3dbe-4096-90cf-a04003034399}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{94801742-0823-46dc-9028-8fac8b93c7af}</destination>
@@ -105,7 +105,7 @@
 			<value>order</value>
 		</property>
 		<property name="value">
-			<value>70</value>
+			<value>19</value>
 		</property>
 	</object>
 	<object class="UserProperty" id="{8bfa2a9a-46c8-4e46-ad78-e035beaaef0d}">

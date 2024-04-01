@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fc2191f9-dcff-4d2c-bcba-c38c0a7e390d}">
 		<property name="assetPath">
-			<value>modded/snickchallengetitle.wav</value>
+			<value>modded/titlecards/snickchallengetitle.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

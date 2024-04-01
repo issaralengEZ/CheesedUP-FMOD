@@ -84,9 +84,6 @@
 		<relationship name="automationTracks">
 			<destination>{f789a1da-c7bb-42df-ae7e-c5e3cfd38225}</destination>
 		</relationship>
-		<relationship name="modules">
-			<destination>{6f009780-f363-4233-9bf9-c65c3809beac}</destination>
-		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{c3eec064-f7d4-40a6-8b0d-76291ad7609a}</destination>
 		</relationship>
@@ -94,7 +91,6 @@
 	<object class="Timeline" id="{19f377e8-a7c9-454e-871b-01d7ec917a7b}">
 		<relationship name="modules">
 			<destination>{15fc4557-34f5-4ba4-a94e-1b083d9cf39e}</destination>
-			<destination>{6f009780-f363-4233-9bf9-c65c3809beac}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{2a60aa89-ee10-4b54-b8f7-4e410120017a}">
@@ -153,17 +149,6 @@
 	<object class="AutomationTrack" id="{f789a1da-c7bb-42df-ae7e-c5e3cfd38225}">
 		<relationship name="automator">
 			<destination>{1f13883a-418b-4859-ab28-636e111f3b4f}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{6f009780-f363-4233-9bf9-c65c3809beac}">
-		<property name="length">
-			<value>1.2871250000000019</value>
-		</property>
-		<property name="timelockedOffset">
-			<value>0.016</value>
-		</property>
-		<relationship name="audioFile">
-			<destination>{26f45c69-3f6c-4cfd-a2f5-60d64a98ff7f}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{c3eec064-f7d4-40a6-8b0d-76291ad7609a}">

@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{e755b8df-2c0c-4e14-9ba5-4669f95c0fdf}">
 		<property name="name">
-			<value>S16 secretsewer SP</value>
+			<value>secretsewer SP</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{df67a827-3f8a-48c6-87fb-3f41d942e4b2}</destination>
+			<destination>{b3da2453-3dbe-4096-90cf-a04003034399}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{f5cc7580-2b3f-4765-881e-a599dbc9c9d7}</destination>
@@ -105,7 +105,7 @@
 			<value>order</value>
 		</property>
 		<property name="value">
-			<value>73</value>
+			<value>20</value>
 		</property>
 	</object>
 	<object class="UserProperty" id="{c5b626a9-9a8d-405c-8d73-c24a7052b79a}">

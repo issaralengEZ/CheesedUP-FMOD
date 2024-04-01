@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{e3d5ebca-c1a7-4db9-8415-2633e096a628}">
 		<property name="name">
-			<value>04 lap</value>
+			<value>lap</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

@@ -148,10 +148,6 @@
 		<property name="length">
 			<value>0.9175416666666667</value>
 		</property>
-		<relationship name="sounds">
-			<destination>{88854caa-6285-472b-9c6f-b6585f0541c1}</destination>
-			<destination>{a0596abe-259d-4c3d-8517-dbd2a123ce8e}</destination>
-		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{82c88737-c72e-473b-8e46-cce24804e8ac}">
 		<property name="name">
@@ -207,16 +203,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{9dfc193a-a14e-4665-a9b8-2eec85555230}" />
-	<object class="SingleSound" id="{88854caa-6285-472b-9c6f-b6585f0541c1}">
-		<relationship name="audioFile">
-			<destination>{4fb8824a-c062-4ec8-a01c-33978b269127}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{a0596abe-259d-4c3d-8517-dbd2a123ce8e}">
-		<relationship name="audioFile">
-			<destination>{4cec7e5a-127c-4998-9e4e-f088ba331707}</destination>
-		</relationship>
-	</object>
 	<object class="Automator" id="{915ba455-e4e8-4d09-9660-64723c90df83}">
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>

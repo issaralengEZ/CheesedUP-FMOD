@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{a18ed595-e72e-4fc7-b0dc-f64c67d90763}">
 		<property name="name">
-			<value>50 pause</value>
+			<value>pause</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{a49c13c8-de67-47be-92b8-0855fb8f2c9f}">
 		<property name="name">
-			<value>S01 secretentrance SP</value>
+			<value>secretentrance SP</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -122,7 +122,7 @@
 			<value>alt</value>
 		</property>
 		<property name="value">
-			<value>2</value>
+			<value>1</value>
 		</property>
 	</object>
 	<object class="EventMixerMaster" id="{4b7b684a-b7b4-4b01-b78f-d296624d341f}">

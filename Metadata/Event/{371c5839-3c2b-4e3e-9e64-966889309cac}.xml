@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{371c5839-3c2b-4e3e-9e64-966889309cac}">
 		<property name="name">
-			<value>S14 secretfreezer BN</value>
+			<value>secretfreezer BN</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

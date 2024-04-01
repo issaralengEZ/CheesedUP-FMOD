@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{b9d5bc98-269c-41d9-92bb-b06036870220}">
 		<property name="name">
-			<value>13 forafewtoppings</value>
+			<value>forafewtoppings</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

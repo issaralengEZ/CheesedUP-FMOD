@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{cae736dc-4677-4404-9fbf-a35de288adc3}">
 		<property name="name">
-			<value>S02 secretforest</value>
+			<value>secretforest</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -104,7 +104,7 @@
 			<value>order</value>
 		</property>
 		<property name="value">
-			<value>23</value>
+			<value>18</value>
 		</property>
 	</object>
 	<object class="EventMixerMaster" id="{e10565dd-20de-421d-9e54-8c373718d71b}">

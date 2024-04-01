@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{639156f9-146d-48e3-836c-5586a1b44508}">
 		<property name="name">
-			<value>07 clock</value>
+			<value>clock</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

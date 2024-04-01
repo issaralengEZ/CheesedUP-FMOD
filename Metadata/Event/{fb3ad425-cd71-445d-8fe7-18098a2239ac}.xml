@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{fb3ad425-cd71-445d-8fe7-18098a2239ac}">
 		<property name="name">
-			<value>01 crunchy</value>
+			<value>crunchy</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

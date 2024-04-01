@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{6a36d155-dc7d-4639-91d3-b7feab58d34e}">
 		<property name="name">
-			<value>33 celsius</value>
+			<value>celsius</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
