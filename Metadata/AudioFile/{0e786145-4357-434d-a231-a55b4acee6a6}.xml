@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0e786145-4357-434d-a231-a55b4acee6a6}">
 		<property name="assetPath">
-			<value>modded/titlecards/noise blast.wav</value>
+			<value>modded/titlecards/noise/noise blast.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

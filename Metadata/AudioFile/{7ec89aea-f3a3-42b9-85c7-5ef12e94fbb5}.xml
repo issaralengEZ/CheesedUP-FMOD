@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7ec89aea-f3a3-42b9-85c7-5ef12e94fbb5}">
 		<property name="assetPath">
-			<value>modded/sound/344155__klankbeeld__donkey.wav</value>
+			<value>modded/vigilante/344155__klankbeeld__donkey.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
