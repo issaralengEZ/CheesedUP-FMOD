@@ -69,7 +69,6 @@
 	<object class="GroupTrack" id="{68fb2e32-4870-4c8b-949b-00b47dadbf66}">
 		<relationship name="modules">
 			<destination>{b2ea060c-5834-44b1-a6df-026102db961d}</destination>
-			<destination>{4bc8c96a-f7d9-4491-8d09-cd2e950e7d90}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{a8e28e2d-ccd6-4488-9f7b-73a6e90fcf95}</destination>
@@ -83,11 +82,9 @@
 	<object class="Timeline" id="{c6f1f2e2-86e3-43de-8779-08739b7f2d65}">
 		<relationship name="modules">
 			<destination>{b2ea060c-5834-44b1-a6df-026102db961d}</destination>
-			<destination>{4bc8c96a-f7d9-4491-8d09-cd2e950e7d90}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{b04c86c7-cdd4-4712-b310-56de34b562de}</destination>
-			<destination>{923f7eeb-c3cd-49ca-beee-c635f6e62efb}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{1833263a-42b9-4acd-a968-71248c29f549}">
@@ -121,23 +118,6 @@
 		</property>
 		<relationship name="audioFile">
 			<destination>{8291a339-de52-4cf3-bf7d-582b2351ddbd}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{4bc8c96a-f7d9-4491-8d09-cd2e950e7d90}">
-		<property name="start">
-			<value>60</value>
-		</property>
-		<property name="length">
-			<value>54.559387755102058</value>
-		</property>
-		<property name="timelockedOffset">
-			<value>0.3500000000000057</value>
-		</property>
-		<property name="volume">
-			<value>6</value>
-		</property>
-		<relationship name="audioFile">
-			<destination>{5b2e9630-099f-4142-8a1e-d3df64b525c0}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{a8e28e2d-ccd6-4488-9f7b-73a6e90fcf95}">
@@ -188,26 +168,6 @@
 			<destination>{e1835107-2bd6-47e4-b1e3-9e564a9bfe6f}</destination>
 		</relationship>
 	</object>
-	<object class="LoopRegion" id="{923f7eeb-c3cd-49ca-beee-c635f6e62efb}">
-		<property name="position">
-			<value>60</value>
-		</property>
-		<property name="length">
-			<value>54.20000000000001</value>
-		</property>
-		<property name="looping">
-			<value>2</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{c6f1f2e2-86e3-43de-8779-08739b7f2d65}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{b743fe03-adaf-4270-8ba8-2b1b69cd35d9}</destination>
-		</relationship>
-		<relationship name="triggerConditions">
-			<destination>{5a2f8da6-6506-4aa0-84cd-d425ea25f082}</destination>
-		</relationship>
-	</object>
 	<object class="Automator" id="{b3ea5b43-85d2-4042-88f8-d9099f9162ac}">
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
@@ -241,17 +201,6 @@
 		</property>
 		<property name="maximum">
 			<value>0</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{283b5fa7-5f17-4fab-96a0-bfb3bca94a78}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{5a2f8da6-6506-4aa0-84cd-d425ea25f082}">
-		<property name="minimum">
-			<value>20</value>
-		</property>
-		<property name="maximum">
-			<value>20</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{283b5fa7-5f17-4fab-96a0-bfb3bca94a78}</destination>
