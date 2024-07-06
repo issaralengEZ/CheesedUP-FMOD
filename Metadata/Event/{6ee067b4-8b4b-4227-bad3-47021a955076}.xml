@@ -167,6 +167,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{e18fd52f-a22b-4293-859c-3f7bda6702d0}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>
@@ -182,7 +185,7 @@
 	</object>
 	<object class="SingleSound" id="{9d5152b1-9a71-4f3c-b159-ad0d542e5fc0}">
 		<property name="start">
-			<value>0.20000000000000001</value>
+			<value>0.16</value>
 		</property>
 		<property name="length">
 			<value>1.5050862477636835</value>
@@ -270,12 +273,12 @@
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.2547189</value>
+			<value>0.308251441</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{9105a370-7425-4456-9f6e-b89066b040af}">
 		<property name="position">
-			<value>0.16</value>
+			<value>0.080000000000000002</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -285,18 +288,18 @@
 	<object class="MixerBusFader" id="{70acace9-4105-4f8b-8bad-6bd2b619af2a}" />
 	<object class="AutomationPoint" id="{7b019185-bc20-4f3f-96d8-cd9901645022}">
 		<property name="position">
-			<value>0.20000000000000001</value>
+			<value>0.16</value>
 		</property>
 		<property name="value">
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>0.462176412</value>
+			<value>0.548575044</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{e2281977-0868-4864-9a24-f5c57dd7ab1c}">
 		<property name="position">
-			<value>0.75</value>
+			<value>0.68000000000000005</value>
 		</property>
 		<property name="value">
 			<value>1</value>

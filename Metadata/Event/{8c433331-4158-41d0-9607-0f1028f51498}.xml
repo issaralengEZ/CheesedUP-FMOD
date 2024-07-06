@@ -192,9 +192,6 @@
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
 		</property>
-		<relationship name="automationCurves">
-			<destination>{5e8654cb-e266-4b25-a858-5e945adb34a2}</destination>
-		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{02b06c8c-8e1f-489b-9350-f44428e8908e}">
 		<relationship name="effects">
@@ -207,9 +204,6 @@
 		<property name="nameOfPropertyBeingAutomated">
 			<value>volume</value>
 		</property>
-		<relationship name="automationCurves">
-			<destination>{c9d40bd5-8901-49f8-9639-91ac0f982962}</destination>
-		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{26800378-67e6-4dd5-9986-6dc7c9c6bc00}">
 		<relationship name="effects">
@@ -219,15 +213,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{40454f3f-41de-4d58-8e51-d1a1ed8b2b44}" />
 	<object class="MixerBusFader" id="{35d3c64c-ccf7-4877-b2b8-29164ea9db05}" />
-	<object class="AutomationCurve" id="{5e8654cb-e266-4b25-a858-5e945adb34a2}">
-		<relationship name="parameter">
-			<destination>{25ccda73-e613-4e73-b156-e40c47833029}</destination>
-		</relationship>
-		<relationship name="automationPoints">
-			<destination>{c4c1c107-14d7-4127-8564-d44118e1daf3}</destination>
-			<destination>{97568148-1175-464d-a397-ecb1af79c10a}</destination>
-		</relationship>
-	</object>
 	<object class="MixerBusFader" id="{8e3e057d-c321-4cc8-bbd2-43150e64d31d}" />
 	<object class="SFXReverbEffect" id="{d9a2e6fe-6fcf-4682-85f9-bcf77bd8d446}">
 		<property name="decayTime">
@@ -237,15 +222,6 @@
 			<value>-12</value>
 		</property>
 	</object>
-	<object class="AutomationCurve" id="{c9d40bd5-8901-49f8-9639-91ac0f982962}">
-		<relationship name="parameter">
-			<destination>{25ccda73-e613-4e73-b156-e40c47833029}</destination>
-		</relationship>
-		<relationship name="automationPoints">
-			<destination>{6639b9da-cd89-4cda-931a-5983917db835}</destination>
-			<destination>{4d5816ad-aebb-49fa-bc9b-a16cc872f758}</destination>
-		</relationship>
-	</object>
 	<object class="MixerBusFader" id="{5e00fde6-e82d-4663-8d65-b73a55e17ed7}" />
 	<object class="SFXReverbEffect" id="{579abe25-696a-4312-94cb-441cc419c100}">
 		<property name="decayTime">
@@ -253,38 +229,6 @@
 		</property>
 		<property name="wetLevel">
 			<value>-12</value>
-		</property>
-	</object>
-	<object class="AutomationPoint" id="{c4c1c107-14d7-4127-8564-d44118e1daf3}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="value">
-			<value>-6.00000381</value>
-		</property>
-	</object>
-	<object class="AutomationPoint" id="{97568148-1175-464d-a397-ecb1af79c10a}">
-		<property name="position">
-			<value>1</value>
-		</property>
-		<property name="value">
-			<value>-80</value>
-		</property>
-	</object>
-	<object class="AutomationPoint" id="{6639b9da-cd89-4cda-931a-5983917db835}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="value">
-			<value>-80</value>
-		</property>
-	</object>
-	<object class="AutomationPoint" id="{4d5816ad-aebb-49fa-bc9b-a16cc872f758}">
-		<property name="position">
-			<value>1</value>
-		</property>
-		<property name="value">
-			<value>-6</value>
 		</property>
 	</object>
 </objects>

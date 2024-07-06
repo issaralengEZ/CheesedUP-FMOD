@@ -220,7 +220,7 @@
 	</object>
 	<object class="SingleSound" id="{10285a0d-4002-4607-b430-da9e763ead1e}">
 		<property name="length">
-			<value>1.6500000000000001</value>
+			<value>1.3600000000000001</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>1.7500000000000007</value>
@@ -397,7 +397,7 @@
 	</object>
 	<object class="AutomationPoint" id="{7c22e16d-b11f-4d26-9dcb-d1552dbf4d5d}">
 		<property name="position">
-			<value>1.25</value>
+			<value>1.1499999999999999</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -408,7 +408,7 @@
 	</object>
 	<object class="AutomationPoint" id="{39a5af68-766e-43e3-b7a6-3738c24af46c}">
 		<property name="position">
-			<value>1.6500000000000001</value>
+			<value>1.3600000000000001</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -439,13 +439,16 @@
 		<property name="value">
 			<value>0</value>
 		</property>
+		<property name="curveShape">
+			<value>0.121341705</value>
+		</property>
 	</object>
 	<object class="AutomationPoint" id="{8b8c6efb-b761-4537-b14d-e66f961fc965}">
 		<property name="position">
 			<value>0.59999999999999998</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>7</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{16bd972a-9fc8-492f-a429-6b3851934212}">
@@ -453,7 +456,7 @@
 			<value>0.85999999999999999</value>
 		</property>
 		<property name="value">
-			<value>4</value>
+			<value>-4</value>
 		</property>
 	</object>
 </objects>

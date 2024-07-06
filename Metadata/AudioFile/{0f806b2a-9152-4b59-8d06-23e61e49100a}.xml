@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0f806b2a-9152-4b59-8d06-23e61e49100a}">
 		<property name="assetPath">
-			<value>modded/cosmic clone escape.ogg</value>
+			<value>modded/cosmic clone/cosmic_escape.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

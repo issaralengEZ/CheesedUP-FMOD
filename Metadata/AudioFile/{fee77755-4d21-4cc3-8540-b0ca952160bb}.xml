@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fee77755-4d21-4cc3-8540-b0ca952160bb}">
 		<property name="assetPath">
-			<value>modded/sfx_mariotalk5.wav</value>
+			<value>modded/sound/sfx_mariotalk5.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

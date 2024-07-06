@@ -182,7 +182,7 @@
 			<value>-80</value>
 		</property>
 		<property name="lowCrossover">
-			<value>240</value>
+			<value>300</value>
 		</property>
 		<property name="highCrossover">
 			<value>1150</value>
