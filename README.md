@@ -13,6 +13,8 @@ Distasteful Anchovi - https://youtu.be/RcAyOxkcAaE <br>
 Pillar John's Revenge - https://soundcloud.com/nimabyss/pillar-johns-revenge-remixedit <br>
 Leaning Dream - https://youtu.be/j7TEN1t3Sdo <br>
 Dungeon Freakshow - https://youtu.be/lPPTMdv5eao <br>
+Ooooh La Belle Noisette! - https://youtu.be/0MHWXUTm4Ig <br>
+mmm yes put the tree on my pizza - https://youtu.be/_FBlCc7n1-E <br>
 Way of the Pig - https://youtu.be/nVpHyq9EeEo <br>
 Pizza Engineer - https://youtu.be/ZcFPVHjTd9A <br>
 Peppino's Sauce Machine - https://youtu.be/sL1S4uoVIvw (Loud Noises Warning!!!) <br>
