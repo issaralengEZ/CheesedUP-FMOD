@@ -67,7 +67,7 @@
 	<object class="MarkerTrack" id="{3c8028fc-1d2c-4cf6-b5ca-7abf5e50b6f6}" />
 	<object class="GroupTrack" id="{3da9568d-0240-4746-8ae3-50c5c04e3e93}">
 		<relationship name="modules">
-			<destination>{c9bd7452-0b19-4ba3-8395-d629416359aa}</destination>
+			<destination>{d8ed9ae6-d59a-4642-b74a-cd8450f479ba}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{a69683fb-f59a-42c5-98c6-0bab2b86a76f}</destination>
@@ -75,7 +75,7 @@
 	</object>
 	<object class="Timeline" id="{92780894-e468-44f3-ae4c-fa763ea4b831}">
 		<relationship name="modules">
-			<destination>{c9bd7452-0b19-4ba3-8395-d629416359aa}</destination>
+			<destination>{d8ed9ae6-d59a-4642-b74a-cd8450f479ba}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{822a0188-5088-42cc-8e18-d435cb4a22aa}</destination>
@@ -106,24 +106,15 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{255fd0b4-e99a-4594-af63-6000eac8548e}" />
-	<object class="SingleSound" id="{c9bd7452-0b19-4ba3-8395-d629416359aa}">
+	<object class="SingleSound" id="{d8ed9ae6-d59a-4642-b74a-cd8450f479ba}">
 		<property name="length">
-			<value>71.459387755102</value>
-		</property>
-		<property name="timelockedOffset">
-			<value>0.089999999999999997</value>
-		</property>
-		<property name="volume">
-			<value>-3</value>
+			<value>71.489365079365086</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{0ff6f4f7-87e3-4cce-bc21-8169c22e7cd1}</destination>
+			<destination>{6c735a7e-8c9c-4466-ae4e-f55b2bf73cd8}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{a69683fb-f59a-42c5-98c6-0bab2b86a76f}">
-		<property name="volume">
-			<value>3</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -142,7 +133,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>71.459387755102043</value>
+			<value>71.489365079365086</value>
 		</property>
 		<property name="transitionOffset">
 			<value>1</value>

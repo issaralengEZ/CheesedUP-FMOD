@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{78ea45b8-0ee4-40c5-80af-8a36ccc2249f}">
+	<object class="AudioFile" id="{6c735a7e-8c9c-4466-ae4e-f55b2bf73cd8}">
 		<property name="assetPath">
-			<value>modded/weenie ride/weenieride_cosmic4.wav</value>
+			<value>modded/strongcoldsecret.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>5.0526303854875287</value>
+			<value>71.489365079365086</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>

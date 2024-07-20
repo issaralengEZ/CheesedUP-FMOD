@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{badc9890-532e-4de4-98f3-a79f5b5c7bbb}">
 		<property name="assetPath">
-			<value>modded/encore/pizzascape 2.ogg</value>
+			<value>modded/encore/medieval_encore.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
